@@ -10,7 +10,7 @@ if (startQuiz === "y") {
     "Question 5:\n What does the === operator do in JavaScript? \n A) Checks for equality and type \n B) Checks for equality only \n C) Checks for type only \n D) Assigns a value",
   ];
 // veriable declare kia hai
-  var answers = ["a", "b", "c", "d", "e"];
+  var answers = ["a", "c", "a", "b", "a"];
   var a = "A) var myVar";
   var b = "C) Object";
   var c = "A) object";
